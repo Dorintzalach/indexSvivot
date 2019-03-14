@@ -86,3 +86,19 @@ input[type=text] {
 	border: 2px solid  rgb(98, 175, 206);
 	border-radius: 4px;
   }
+
+.submit{
+  border-radius: 12px;	
+  background-color: rgb(98, 175, 206);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+}
+
+.send{
+  border-radius: 12px;	
+  background-color: rgb(98, 175, 206);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+}
