@@ -67,6 +67,22 @@ img{
 
 h1 {
 	text-shadow: 2px 2px  rgb(98, 175, 206);
+	display: inline-block;
+        position: relative;  
+	
+}
+
+h1: before ,
+h1: after{
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 1px solid rgb(98, 175, 206);
+  border-top: 1px solid rgb(98, 175, 206);
+  top: 0;
+  width: 600px;
+	
+}
 }
 
 form{
