@@ -74,7 +74,6 @@ form{
 	 box-shadow: 10px 10px 5px rgb(98, 175, 206);
 	margin-left: auto;
 	margin-right: auto;
-	display: block;
 }
 
 input[type=text] {
