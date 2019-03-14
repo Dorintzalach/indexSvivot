@@ -87,7 +87,7 @@ input[type=text] {
 	border-radius: 4px;
   }
 
-.submit{
+#submit{
   border-radius: 12px;	
   background-color: rgb(98, 175, 206);
   border: none;
@@ -95,7 +95,7 @@ input[type=text] {
   padding: 15px 32px;
 }
 
-.send{
+#reset{
   border-radius: 12px;	
   background-color: rgb(98, 175, 206);
   border: none;
