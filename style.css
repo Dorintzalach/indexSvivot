@@ -28,7 +28,7 @@ li a {
 }
 
 #menu :hover{
-	width: 300px;
+	hight: 300px;
 }
 
 
@@ -67,4 +67,8 @@ img{
 
 h1 {
 	text-shadow: 2px 2px  rgb(98, 175, 206);
+}
+
+form{
+	font-size: 10px;
 }
