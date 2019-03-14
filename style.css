@@ -70,6 +70,11 @@ h1 {
 }
 
 form{
-	font-size: x-small;
+	font-size: 18px;
 	 box-shadow: 10px 10px 5px rgb(98, 175, 206);
 }
+
+input[type=text] {
+	border: 2px solid  rgb(98, 175, 206);
+	border-radius: 4px;
+  }
